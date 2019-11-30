@@ -1,0 +1,91 @@
+Make,Model,Platform / generation,Sold in Europe,Years produced,Body,Doors,Seats,Wheelbase (mm),Length (mm),Width (mm),Height (mm),L x W x H (m3),Curb weight (kg),Cargo space (litres),Displacement (cm3),Power (PS),Top speed (kmph)
+
+CAR MODELS DATABASE,,,,,,,,,,,,,,,,,
+Copyright 2003-2015 by Teoalida - cardatabase.teoalida.com,,,,,,,,,,,,,,,,,
+"You are allowed to use this file in your business or company, or convert in SQL database for your website or software development.",,,,,,,,,,,,,,,,,
+"You are not allowed to distribute, resell or post the Excel file or converted files on other websites.",,,,,,,,,,,,,,,,,
+
+"SAMPLE database containing 1 manufacturer (46 models, 73 body styles)",,,,,,,,,,,,,,,,,
+"FULL database contains 100+ manufacturers, 1900+ car models, 3300+ body styles, (and growing), covering World War II to present.",,,,,,,,,,,,,,,,,
+"See the Statistics sheet of this sample, for the list of manufacturers included and exact years of historical coverage.",,,,,,,,,,,,,,,,,
+"Visit cardatabase.teoalida.com and purchase the FULL version of this database, as well as other car databases!",,,,,,,,,,,,,,,,,
+
+Advice how to use database,,,,,,,,,,,,,,,,,
+"The database contain few cars not sold in Europe, due of my personal research and due of requests from non-European users.",,,,,,,,,,,,,,,,,
+"European users are advised to filter column ""Sold in Europe"" and delete the rows marked with ""NO"".",,,,,,,,,,,,,,,,,
+"Western European users can further delete the rows marked with ""Only Russia"", ""Eastern Europe"", etc.",,,,,,,,,,,,,,,,,
+"Eastern European users can further delete the rows marked with ""Only UK"" but are advised to not delete, because some used cars from UK are now on the roads of Eastern Europe.",,,,,,,,,,,,,,,,,,
+
+Citroën,2CV,-,Europe,1948-1990,La,4,4,2400,3820,1480,1600,9.046,,,375-600,29-Sep,65-115,Data from Wikipedia
+Citroën,Dyane,-,Europe,1967-1983,H,5,4,2400,3900,1500,1530,8.951,,,400-600,21-32,105-120,Data from Wikipedia
+Citroën,Bijou,-,Europe,1959-1964,Co,2,4,3488,3962,1549,1168,7.168,,,400,12,?,"RARE, 207 units produced"
+Citroën,LN / LNA,-,Europe,1976-1986,H,3,4,2230,3384,1522,1373,7.072,,,600-650,32-36,,
+Citroën,AX,-,Europe,1986-1998,H,5-Mar,5,2280,3525,1555,1355,7.427,640-850,275-670,950-1500,40-100,140-186,
+Citroën,Saxo,-,Europe,1996-2003,H,5-Mar,5,2385,3718,1595,1368,5.204,805-982,280-953,950-1600,45-118,149-205,
+Citroën,C2,-,Europe,2003-2010,H,3,4,2315,3666,1659,1474,8.965,1031-1088,166-879,1100-1600,60-122,158-202,
+Citroën,C1,I,Europe,2005-2014,H,5-Mar,4,2340,3435,1630,1470,8.231,865-955,139-712,1000-1400,54-68,154-157,
+Citroën,C1,II,Europe,2014-____,H,5-Mar,4,2340,3466,1615,1460,8.172,,196-780,,,,
+Citroën,C-ZERO,-,Europe,2010-2012,H,5,4,2550,3480,1475,1610,8.264,1086,166-?,electric,64,130,
+Citroën,Visa,-,Europe,1978-1988,H,5,5,2430,3690,1515,1408,7.871,725-930,300,650-1800,34-112,125-190,
+Citroën,Axel,-,Europe,1984-1990,H,3,5,2370,3732,1538,1430,8.208,,,650-1300,35-61,,"Rebadged Oltcit produced in Romania, data from Wikipedia"
+Citroën,C3,I,Europe,2002-2009,H,5,5,2460,3850,1667,1529,9.813,1053-1147,305-1150,1100-1600,60-109,153-192,
+Citroën,C3 Pluriel,I,Europe,2003-2010,Ca,2,5,2460,3934,1700,1559,10.426,1211-1252,266,1400-1600,73-109,158-188,
+Citroën,C3,II,Europe,2009-____,H,5,5,2451,3941,1728,1524,10.379,1135-1271,300-1000,1000-1600,60-120,163-190
+Citroën,DS3,-,Europe,2010-____,H,3,5,2452,3948,1715,1458,9.872,1120-1256,285-980,1200-1600,68-207,165-235
+Citroën,DS3 Cabrio,-,Europe,2013-____,Ca,2,5,2452,3948,1715,1458,9.872,1165-1250,245,1200-1600,68-207,173-210
+Citroën,Ami,-,Europe,1961-1978,S,5,5,2400,3958,1524,1520,9.169,,,600-1000,22-55,105-140
+Citroën,Ami Break,-,Europe,1961-1978,K,5,5,2400,3990,1520,1485,9.006,,,,,
+Citroën,ZX,-,Europe,1991-1997,H,5-Mar,5,2540,4070,1688,1399,9.611,945-1102,324-1146,1100-2000,60-163,161-220
+Citroën,ZX Kombi,-,Europe,1994-1998,K,5,5,2540,4260,1702,1421,10.303,1015-1150,488-1580,1400-1900,68-101,155-177
+Citroën,Xsara Coupé,-,Europe,1998-2001,H,3,5,2540,4167,1698,1405,6.06,1020-1175,408-1190,1400-2000,70-163,162-220
+Citroën,Xsara Coupé,-,Europe,2001-2004,H,3,5,2540,4188,1705,1405,6.085,1184-1291,408-1190,1400-2000,75-163,172-220
+Citroën,Xsara,-,Europe,1997-2001,H,5,5,2540,4167,1698,1405,6.06,1030-1165,408-1190,1400-2000,70-110,162-195
+Citroën,Xsara,-,Europe,2001-2004,H,5,5,2540,4188,1705,1405,6.085,1191-1291,408-1190,1400-2000,68-136,162-210
+Citroën,Xsara Break,-,Europe,1998-2001,K,5,5,2540,4354,1698,1405,6.06,1080-1220,512-1512,1400-2000,70-110,162-194
+Citroën,Xsara Break,-,Europe,2001-2006,K,5,5,2540,4369,1705,1405,6.085,1237-1340,512-1512,1400-2000,68-136,164-210
+Citroën,C4 Coupé,I,Europe,2004-____,H,3,5,2608,4273,1769,1458,11.021,1256-1454,314,1400-2000,88-177,178-227
+Citroën,C4,I,Europe,2004-____,H,5,5,2608,4260,1773,1458,11.012,1257-1456,320-1023,1400-2000,88-140,178-212
+Citroën,C4,II,Europe,2010-____,H,5,5,2608,4329,1789,1498,11.601,1330-1501,408-1183,1400-2000,92-156,182-214
+Citroën,DS4,-,Europe,2010-____,H,5,5,2612,4275,1810,1526,11.808,1417-1496,370-1021,1600-2000,112-200,190-235,
+Citroën,C-Elysée,I,NO,2002-2008,S,4,5,2540,4305,1707,1413,10.384,,437,,,,Produced in China. NOT SOLD IN EUROPE
+Citroën,C-Elysée (facelift),I,NO,2008-2012,S,4,5,2540,4367,1708,1413,10.539,,437,,,,Produced in China. NOT SOLD IN EUROPE
+Citroën,C-Elysée,II,Eastern Europe,2012-____,S,4,5,2650,4442,1748,1466,11.383,,,,,,Produced in China and exported to few Eastern European countries. NOT SOLD IN WESTERN EUROPE
+Citroën,GS / GSA,-,Europe,1970-1986,L,5,5,2550,4120,1608,1350,8.944,,,,,,
+Citroën,GS / GSA Break,-,Europe,1971-??,K,5,5,2550,4195,1626,1350,9.208,,,,,,
+Citroën,BX,-,Europe,1982-1993,L,5,5,2655,4237,1682,1361,9.699,906-1025,444,1400-1900,61-147,155-215,
+Citroën,BX Break,-,Europe,1983-1994,K,5,5,2655,4399,1682,1410,10.433,?-1077,860,1400-1900,64-120,156-196,
+Citroën,Xantia,-,Europe,1993-2001,L,5,5,2740,4444,1755,1387,10.818,1160-1381,418-878,1600-3000,68-190,154-230,"Length 4524 mm, height 1400 after 1998"
+Citroën,Xantia Break,-,Europe,1995-2002,K,5,5,2740,4660,1755,1416,11.58,1348-1429,618-1144,1800-3000,90-190,173-227,"Length 4712 mm, height 1420 mm after 1998"
+Citroën,C5,I,Europe,2001-2004,L,5,5,2750,4617,1770,1476,12.062,1365-1560,456-1310,1800-3000,107-207,191-240,
+Citroën,C5 (facelift),I,Europe,2004-2008,L,5,5,2750,4745,1780,1475,12.458,1452-1664,471-1315,1600-3000,107-207,190-230,
+Citroën,C5 Tourer,I,Europe,2001-2004,K,5,5,2750,4756,1770,1516,12.762,1446-1597,563-1658,1800-3000,107-207,186-234,
+Citroën,C5 Tourer (facelift),I,Europe,2004-2008,K,5,5,2750,4839,1780,1555,13.394,1502-1694,563-1658,1800-3000,107-207,186-227,
+Citroën,C5,II,Europe,2008-____,S,4,5,2815,4779,1853,1456,12.894,1500-1841,467,1600-3000,109-240,190-240,
+Citroën,C5 Tourer,II,Europe,2008-____,K,5,5,2815,4829,1853,1512,13.53,1573-1842,533-1490,1600-3000,109-240,188-239,
+Citroën,DS5,-,Europe,2011-____,L,5,5,2727,4530,1871,1505,12.756,1495-1735,468-1288,1600-2000,112-200,191-235,
+Citroën,Traction Avant,-,Europe,1934-1957,,,,?,?,?,?,#VALUE!,,,,,,Data from Wikipedia
+Citroën,DS,-,Europe,1955-1975,S,4,G,3125,4870,1800,1470,12.886,,,,,,Data from Wikipedia
+Citroën,DS Familiale,-,Europe,1958-??,K,5,8-May,3125,5026,1800,1530,13.842,,,,,,Data from Wikipedia
+Citroën,CX,-,Europe,1974-1989,L,5,5,2845,4630,1730,1360,10.893,,,2000-2500,,,
+Citroën,CX Prestige,-,Europe,1976-1989,L,5,5,3095,4907,1730,1375,11.673,,,2000-2500,,,
+Citroën,CX Safari,-,Europe,1975-1991,K,5,8-May,3905,4922,1734,1465,12.503,,,2000-2500,,,
+Citroën,XM,-,Europe,1989-2000,L,5,5,2850,4708,1794,1394,11.774,1395-1625,455-1020,2000-3000,82-200,176-235,
+Citroën,XM Break,-,Europe,1991-2000,K,5,5,2850,4963,1794,1456,12.964,1467-1690,480-1755,2000-3000,82-200,184-228,
+Citroën,C6,-,Europe,2006-2012,L,4,5,2900,4908,1860,1464,13.365,1891-1948,421,2200-3000,170-211,217-235,
+Citroën,SM,-,Europe,1970-1975,Co,3,4,2900,4893,1836,1324,11.894,1460-1520,,2700-3000,170-180,,
+Citroën,Nemo,-,Europe,2009-____,Hk,5,5,2513,3959,1716,1735,11.787,1255-1275,356-2500,1250-1400,73-75,151-155,
+Citroën,Berlingo,I,Europe,1996-2003,Hk,4-Mar,5,2690,4108,1719,1802,12.725,1200-1306,664-2800,1400-1900,68-109,142-172,
+Citroën,Berlingo (facelift),I,Europe,2003-2010,Hk,5-Apr,5,2693,4137,1724,1819,12.973,1272-1386,624-2800,1400-1900,68-109,142-170,
+Citroën,Berlingo,II,Europe,2008-____,Hk,5-Apr,5,2728,4380,1810,1801,14.278,1472-1504,642-3000,1600,75-109,152-177,
+Citroën,C3 Picasso,-,Europe,2009-____,V,5,5,2540,4078,1766,1631,11.746,1375-1436,385-1506,1400-1700,92-120,174-188,
+Citroën,Xsara Picasso,-,Europe,2000-2009,V,5,5,2760,4276,1751,1637,12.257,1315-1401,550-2128,1600-2000,90-136,171-192,
+Citroën,C4 Picasso,I,Europe,2007-2013,V,5,5,2778,4468,1831,1610,13.171,1545-1753,500-1734,1600-2000,109-140,185-204,
+Citroën,C4 Grand Picasso,I,Europe,2007-2013,V,5,7-May,2778,4585,1829,1624,13.619,1585-1803,576-1951,1600-2000,109-140,185-204,
+Citroën,C4 Picasso,II,Europe,2013-____,V,5,5,2785,4428,1789,1610,12.754,1505-1555,537-1709,1600,90-155,173-209,
+Citroën,C4 Grand Picasso,II,Europe,2013-____,V,5,7-May,2840,4597,1826,1638,13.75,1485-1540,645-1845,1600,90-155,175-209,
+Citroën,Evasion,-,Europe,1994-2002,V,5,8-May,2824,4454,1834,1714,14.001,1510-1690,340-3300,1900-2100,90-147,160-195,
+Citroën,C8,-,Europe,2002-2014,V,5,8-May,2823,4727,1850,1752,15.321,1645-1837,324-2948,2000-3000,107-204,167-205,
+Citroën,Méhari,-,Europe,1968-1988,Gc,2,2+2,2400,3530,1530,1590,8.587,,,,,,Data from Wikipedia
+Citroën,C4 Cactus,-,Europe,2014-____,H,5,5,2595,4157,1729,1480,10.637,,358,,,,
+Citroën,C4 Aircross,-,Europe,2012-____,G,5,5,2670,4340,1800,1625,12.695,1380-1570,442-1169,1600-1800,114-150,180-200,
+Citroën,C-Crosser,-,Europe,2007-2012,G,5,7-May,2670,4646,1806,1670,14.012,1685-1825,184-1686,2200-2400,156-170,190-200,
